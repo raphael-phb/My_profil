@@ -1,6 +1,6 @@
 
 body{
- 	background: #DCDCCC;
+ 	background: #C6C6C6;
  	color: #steelblue;
  	font-family: 'Lora', serif; 
  	font-size: 16px;
@@ -10,7 +10,7 @@ h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
 }
 h1 {
-  	color: #blueviolet;
+  	color: #080808;
   	font-size: 36px;
   	font-weight: 600;
 }
